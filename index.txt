@@ -1,0 +1,8 @@
+problem;
+Test if a palindrome word can be read from left to right
+
+solution 
+
+word = [k, a, y, a, k]
+
+step 1 =[k, a, y, a, k ]
